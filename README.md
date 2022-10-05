@@ -1,4 +1,4 @@
-# 📘 Consuming CoinMarketCap API
+# 📘 CoinMarketCap API
 Consumes the CoinMarketCap API, acquiring the price data and change of the day in %, of the first hundred cryptocurrency in the list and saving the data to a csv file.
 
 ![CoinMarketCap_logo](https://user-images.githubusercontent.com/61769161/193863265-11b333a3-96f3-476b-bd94-28a6d267e080.png)
